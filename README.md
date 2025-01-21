@@ -57,4 +57,39 @@ The main Evaluation metrics is the Root-mean-square deviation
 
 ## Installation
 
+1. Clone the repository to your machine:
+   
+   ```bash
+   git clone https://github.com/salmabens/bank-churn-prediction.git
+   cd bank-churn-prediction
+   ```
 
+2. Create a virtual environment:
+   #### On Windows:
+         
+   ```bash
+   python -m venv env
+   ```
+   #### On macOS/Linux:
+         
+   ```bash
+   python3 -m venv env
+   ```
+3. Activate the virtual environment:
+
+   #### On Windows:
+   
+   ```bash
+   .\env\Scripts\activate
+   ```
+   #### On macOS/Linux:
+   
+   ```bash
+   source env/bin/activate
+   ```
+
+4. Install the dependencies using pip:
+   
+   ```bash
+   pip install -r requirements.txt
+   ```
