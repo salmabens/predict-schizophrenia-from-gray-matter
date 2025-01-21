@@ -60,8 +60,8 @@ The main Evaluation metrics is the Root-mean-square deviation
 1. Clone the repository to your machine:
    
    ```bash
-   git clone https://github.com/salmabens/bank-churn-prediction.git
-   cd bank-churn-prediction
+   git clone https://github.com/salmabens/predict-schizophrenia-from-gray-matter.git
+   cd predict-schizophrenia-from-gray-matter
    ```
 
 2. Create a virtual environment:
